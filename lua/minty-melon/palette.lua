@@ -3,16 +3,17 @@ local palette = {
 	bg_alt = "#1F1F1F",
 	bg_urgent = "#2F2F2F",
 	fg_alt  = "#565656",
-	fg = "#B1B1B1",
+	fg = "#c5c5c5",
 
 	orange = "#C6804E",
-	red = "#CF5C5C",
-	green = "#267055",
-	yellow = "#FFD75F",
+	red = "#ba314e",
+	danger_red = "#f12a2a",
+	green = "#547442",
+	yellow = "#ffe400",
 	blue = "#637EAA",
 	magenta = "#FFBBB4",
-	cyan = "#8FC9A3",
-  white = "#FFFFFF",
+	cyan = "#b3ca8f",
+	white = "#FFFFFF",
 
 	none = "NONE",
 }
