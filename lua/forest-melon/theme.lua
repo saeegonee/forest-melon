@@ -1,4 +1,4 @@
-local p = require('minty-melon.palette')
+local p = require('forest-melon.palette')
 local M = {}
 
 function M.set_colors()
